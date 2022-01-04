@@ -1,0 +1,391 @@
+
+* {margin:0px;
+    box-sizing: border-box;
+    padding: 0px;
+  }
+
+.containor
+{
+background-color: rgb(255, 136, 0);
+width: 1500px;
+height: 1000px;
+}
+
+
+.bosh
+{
+    margin-top:5px ;
+    margin-left: 285px ;
+    width: 200px;
+    height: 150px;
+   position: absolute;
+   
+}
+.gopabandhu
+{
+    position: absolute;
+    margin-top:5px ;
+    margin-left:1270px ;
+    width: 200px;
+    height: 150px;
+
+}
+.bapuji
+{   position: absolute; 
+    margin-top:5px ;
+    margin-left:35px ;
+    width: 200px;
+    height: 150px;
+
+}
+.jai
+{   position: absolute;
+    margin-top:5px ;
+    margin-left:545px ;
+    width: 190px;
+    height: 150px;
+
+}
+.bhagat
+{   position: absolute;
+    margin-top:5px ;
+    margin-left:785px ;
+    width: 200px;
+    height: 150px;
+
+}
+.neheru
+{
+    position: absolute;
+    margin-top:15px ;
+    margin-left:1030px ;
+    width: 190px;
+    height: 140px;
+
+}
+.lak
+{   position: absolute;
+    margin-top: 215px ;
+    margin-left:45px ;
+    width: 190px;
+    height: 150px;
+
+}
+.surendra
+{
+    position: absolute;
+    margin-top: 210px ;
+    margin-left:1245px ;
+    width: 200px;
+    height: 150px;
+
+}
+.map
+{    
+    position: absolute;
+    margin-top:250px ;
+    margin-left:480px ;
+    width: 550px;
+    height: 450px;
+}
+.ashok
+{
+    position: absolute;
+    margin-top: 450px ;
+    margin-left: 710px ;
+    width: 80px;
+    height: 80px;
+    z-index: 2;
+    animation: gar 10s linear infinite;
+}
+.mar4
+{
+    position: absolute;
+    margin-top:400px ;
+    margin-left:0px ;
+    width: 300px;
+    height: 200px;
+
+}
+.mar7
+{
+    position: absolute;
+    margin-top:400px ;
+    margin-left:1200px ;
+    width: 300px;
+    height: 200px;
+    
+}
+.march8
+{ 
+    position: absolute;
+    margin-top:800px ;
+    margin-left: 1200px ;
+    width: 300px;
+    height: 200px;
+
+}
+.marching1
+{
+    position: absolute;
+    margin-top: 600px ;
+    margin-left: 1200px ;
+    width: 300px;
+    height: 200px;
+
+}
+.marching2
+{
+    position: absolute;
+    margin-top:600px ;
+    margin-left: 0px ;
+    width: 300px;
+    height: 200px;
+
+}
+.marching3
+{   
+    position: absolute;
+    margin-top:800px ;
+    margin-left:0px ;
+    width: 300px;
+    height: 200px;
+
+}
+.ps3 
+{
+    position: absolute;
+    margin-top:600px ;
+    margin-left:350px ;
+    width: 250px;
+    height: 250px;
+
+}
+
+.modi
+{
+    position: absolute;
+    margin-top: 590px ;
+    margin-left:850px ;
+    width: 310px;
+    height: 260px;
+
+}
+.gar1
+{
+    position: absolute;
+    margin-top: 90px ;
+    margin-left:1227px ;
+    width: 280px;
+    height: 120px;
+    z-index: 1;
+}
+.gar11
+{
+    position: absolute;
+    margin-top: 90px ;
+    margin-left:-10px ;
+    width: 280px;
+    height: 120px;
+    z-index: 1;
+}
+
+.gar2
+{
+    position: absolute;
+    margin-top: 150px ;
+    margin-left:-20px ;
+    width: 320px;
+    height: 280px;
+}
+.gar22
+{
+    position: absolute;
+    margin-top: 150px ;
+    margin-left: 1202px ;
+    width: 320px;
+    height: 280px;
+}
+.gar3
+{
+    position: absolute;
+    margin-top: 0px ;
+    margin-left:250px ;
+    width: 260px;
+    height: 200px;
+  z-index: 0;
+}
+.gar33
+{
+    position: absolute;
+    margin-top: 0px ;
+    margin-left:505px ;
+    width: 260px;
+    height: 200px;
+  z-index: 0;
+}
+.gar333
+{
+    position: absolute;
+    margin-top: 0px ;
+    margin-left:750px ;
+    width: 260px;
+    height: 200px;
+  z-index: 0;
+}
+.gar3333
+{
+    position: absolute;
+    margin-top: 0px ;
+    margin-left:995px ;
+    width: 260px;
+    height: 200px;
+  z-index: 0;
+}
+.h1
+{
+    position: absolute;
+    margin-top: 827px ;
+    margin-left: 930px;
+    font-size: 30px;
+    
+}
+.h2
+{
+    position: absolute;
+    margin-top: 827px ;
+    margin-left:348px ;
+    font-size: 30px;
+    
+}
+.h3
+{
+    position: absolute;
+    margin-top: 270px ;
+    margin-left: 355px;
+    font-size: 30px;
+    
+}
+.h4
+{
+    position: absolute;
+    margin-top: 307px ;
+    margin-left:348px ;
+    font-size: 30px;
+    
+}
+.h5
+{
+    position: absolute;
+    margin-top: 900px ;
+    margin-left:330px ;
+    font-size: 30px;
+    
+}
+.h51
+{
+    position: absolute;
+    margin-top: 928px ;
+    margin-left:345px ;
+    font-size: 30px;
+    
+}
+
+@keyframes gar 
+{
+     0% {  transform: rotate(0);}
+
+     
+     100%{   transform: rotate(360deg);}
+
+}
+.I
+{
+    position: absolute;
+    margin-top: 450px ;
+    margin-left:585px ;
+    font-size: 80px;
+    
+    
+}
+.N
+{
+    position: absolute;
+    margin-top: 510px ;
+    margin-left:605px ;
+    font-size: 80px;
+} 
+.D
+{
+    position: absolute;
+    margin-top: 570px ;
+    margin-left:629px ;
+    font-size: 80px;
+    
+}
+.I1
+{
+    position: absolute;
+    margin-top: 627px ;
+    margin-left: 669px ;
+    font-size: 80px;
+    
+}
+.A
+{
+    position: absolute;
+    margin-top: 655px ;
+    margin-left:705px ;
+    font-size: 80px;
+    
+}
+.B
+{
+    position: absolute;
+    margin-top: 455px ;
+    margin-left:875px ;
+    font-size: 80px;
+} 
+.H
+{
+    position: absolute;
+    margin-top: 520px ;
+    margin-left:820px ;
+    font-size: 80px;
+    
+}
+.A1
+{
+    position: absolute;
+    margin-top: 570px ;
+    margin-left: 780px ;
+    font-size: 80px;
+    
+}
+.R
+{
+    position: absolute;
+    margin-top: 630px ;
+    margin-left:765px ;
+    font-size: 80px;
+
+} 
+.T
+{
+    position: absolute;
+    margin-top: 715px ;
+    margin-left:729px ;
+    font-size: 80px;
+    
+}
+.
+{
+    position: absolute;
+    margin-top: 627px ;
+    margin-left: 629px ;
+    font-size: 80px;
+    
+}
+
+
+
